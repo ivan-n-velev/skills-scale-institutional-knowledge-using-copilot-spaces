@@ -22,6 +22,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
+- [ ] Customer Success Manager notified for customer-facing onboarding/training
+
+See [Roles & Personas](./octoacme-roles-and-personas.md) for role ownership during release and the [RACI Template](./octoacme-raci-template.md) for release activity assignments.
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
