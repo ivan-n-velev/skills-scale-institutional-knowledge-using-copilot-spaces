@@ -37,6 +37,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Planning Checklist
 - [ ] Project kickoff held
+- [ ] Team roles confirmed — see [Roles & Personas](./octoacme-roles-and-personas.md) and fill out the [RACI Template](./octoacme-raci-template.md)
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
